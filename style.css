@@ -3,7 +3,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: Arial, Times New Roman, sans-serif; /* Fonts, can be changed later */
+  font-family: Arial, sans-serif; /* Fonts, can be changed later */
 }
 
 body { /* So everything that will be visible on the web page */
@@ -53,8 +53,8 @@ button:hover, .button:hover {
 
 /* Container/Layout */
 .container {
-  max-width: 1000 px;
-  margin: 0 auto; /* Center container */
+  max-width: 1000px;
+  margin:0 auto; /* Center container */
   padding: 20px;
 }
 
